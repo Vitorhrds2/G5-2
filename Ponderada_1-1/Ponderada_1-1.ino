@@ -15,3 +15,11 @@ void loop() {
     while (!Serial.available());
     nome = Serial.readStringUntil('\n');
     nome.trim(); 
+
+  //Stefano
+   // Variaveis 
+    int idade =25;
+    float altura=1.75;
+    bool temFilhos=true;
+    String esporteFavorito="futebol";
+    

@@ -23,3 +23,8 @@ void loop() {
     bool temFilhos=true;
     String esporteFavorito="futebol";
     
+    // Isabela
+    // Impressão de dados no prompt de comando
+    Serial.print("Olá, ");
+    Serial.println(nome);
+    
